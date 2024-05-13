@@ -1,5 +1,5 @@
 # JChat
-App de chat creada en Java utilzando Swing, MySQL y patrón MVC y Singleton
+App de chat creada en Java utilzando Swing, MySQL, patrón MVC y Singleton
 
 ![JChat logo](README_img/JChat!_logo.png)
 
