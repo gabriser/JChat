@@ -9,7 +9,7 @@ Una aplicación que permite chatear con otros usuarios que esten conectados a es
 
 La aplicación se conecta a una base de datos para cargar los mensajes y los usuarios conectados.
 
-Se utilizan las librerias Java Swing para la interfaz y [mysql-connector-java-8.0.23.jar](mysql-connector-java-8.0.23) para la base de datos MySQL o MariaDB.
+Se utilizan las librerias Java Swing para la interfaz y [mysql-connector-java-8.0.23.jar](mysql-connector-java-8.0.23.jar) para la base de datos MySQL o MariaDB.
 
 Se puede encontrar la base de datos de muestra en el fichero [bbdd_mysql_chat.sql](bbdd_mysql_chat.sql).
 
@@ -67,7 +67,7 @@ No puede haber 2 usuarios con el mismo nick y tampoco puede haber 2 usuarios con
 
 #### Usuarios conectados
 
-En la parte inferior apareze una vista previa de los usuarios conectados.
+En la parte inferior aparece una vista previa de los usuarios conectados.
 
 
 #### Menu de navegación 'Programa'
